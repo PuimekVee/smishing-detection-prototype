@@ -19,3 +19,4 @@ smishing-detection-prototype/
 ├── .gitignore             # ไฟล์บอก Git ว่าไม่ต้องจำไฟล์ไหนบ้าง
 ├── requirements.txt       # ไฟล์รวมรายชื่อ Library ที่ใช้ (pip freeze)
 └── README.md              # หน้าปกอธิบายโปรเจกต์
+
